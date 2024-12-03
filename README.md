@@ -14,12 +14,13 @@ El conjunto de datos se centra en la clasificación de fracturas óseas a partir
 ---
 
 ## Modelos y Métodos Usados
-- **Modelos:** 
-  - [Especificar los modelos aquí, por ejemplo: ResNet, CNN, etc.]
+- **Modelos:**
+  Se diseñaron 12 modelos y se ajustaron 6 modelos preentrenados VGG16, RestNet50 y EfficientNetB0
 - **Métodos:** 
   - Procesamiento de imágenes médicas.
-  - Técnicas de normalización y preprocesamiento.
-  - Clasificación supervisada mediante aprendizaje profundo.
+  - Técnicas de activación, normalización, optimización y regulación.
+  - Uso del classification_report para metricas PRECISION, RECALL, F1-score.
+    
 
 ---
 
