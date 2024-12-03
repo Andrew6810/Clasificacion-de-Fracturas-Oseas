@@ -24,7 +24,7 @@ Desarrollar un sistema basado en inteligencia artificial para clasificar automá
 
 ## Enlaces Importantes
 - **Código:** [Repositorio del código](#)
-- **Video de YouTube:** [[(https://youtu.be/YG8wQBfMpqg)](#)
+- **Video de YouTube:** [https://youtu.be/YG8wQBfMpqg](#)
 - **Repositorio:** [Enlace al repositorio](#)
 - **Diapositivas:** [Enlace a las diapositivas](#)
 
