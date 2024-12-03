@@ -9,6 +9,7 @@ Desarrollar un sistema basado en inteligencia artificial para clasificar automá
 
 ## Dataset
 **Link del dataset:** [https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset](#)
+
 El conjunto de datos se centra en la clasificación de fracturas óseas a partir de imágenes de rayos X. Incluye diversas clases de fracturas, como fracturas por avulsión, conminutas, luxaciones, en tallo verde, capilares, impactadas, longitudinales, oblicuas, patológicas y espirales. Este conjunto de datos se utiliza para entrenar modelos de visión artificial, con el objetivo de automatizar la clasificación de fracturas, mejorando la atención al paciente y apoyando a los profesionales médicos en la toma de decisiones informadas.
 
 ---
